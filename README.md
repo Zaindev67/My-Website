@@ -1,2 +1,2 @@
 # My-Website
-Zaindev67/My-Website/settings/pages
+ https://zaindev67.github.io/My-Website/
