@@ -1,2 +1,2 @@
 # My-Website
-This is published at file:///E:/bata/index.html
+Zaindev67/My-Website/settings/pages
